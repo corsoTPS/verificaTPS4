@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 File2. Secondo file del progetto. File con ultimi aggiornamenti e correzione dei bug
+=======
+File2. Secondo file del progetto.
+>>>>>>> DiVicino_VerificaTPS_Secondario
